@@ -13,4 +13,5 @@ results.print()
 
 # Show results
 results.show()  # Displays the image with annotations
+results.save(save_dir='output')
 pathlib.PosixPath=temp
